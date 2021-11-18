@@ -1,4 +1,4 @@
-# Algoritma-Djikstra
+# Algoritma-Dijkstra
 
 Algoritma Dijkstra, (dinamai menurut penemunya, seorang ilmuwan komputer, Edsger Dijkstra), adalah sebuah algoritme rakus (greedy algorithm) yang dipakai dalam memecahkan permasalahan jarak terpendek (shortest path problem) untuk sebuah graf berarah (directed graph) dengan bobot-bobot sisi (edge weights) yang bernilai tak-negatif.
 Misalnya, bila vertices dari sebuah graf melambangkan kota-kota dan bobot sisi (edge weights) melambangkan jarak antara kota-kota tersebut, maka algoritme Dijkstra dapat digunakan untuk menemukan jarak terpendek antara dua kota.
